@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vlados/Documents/master-code/school-olymp-2022/main_d.cpp
+iostream
+/Users/vlados/Documents/master-code/school-olymp-2022/iostream
+fstream
+-
+

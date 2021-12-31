@@ -1,0 +1,3 @@
+/Users/vlados/Documents/master-code/school-olymp-2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vlados/Documents/master-code/school-olymp-2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vlados/Documents/master-code/school-olymp-2022/cmake-build-debug/CMakeFiles/school_olymp_2022.dir
